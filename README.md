@@ -10,7 +10,6 @@
 >- [GoogLeNet_with_keras](./CNN/GoogLeNet_with_keras.ipynb)
 >- [GoogLeNet_with_tensorflow](./CNN/GoogLeNet_with_tensorflow.ipynb)
 >- [GoogLeNet_Inception_ResNet_with_keras_applications](./CNN/GoogLeNet_Inception_ResNet_with_keras_applications.ipynb)
->- [Sentiment Analysis with LSTM](LSTM/Sentiment-Analysis-with-LSTM.ipynb)
 
 
 </br>
